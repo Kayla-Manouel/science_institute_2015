@@ -2,13 +2,13 @@
 
 
 ## Calculating moles
-Definition/Usage: 6.02 x 10^23 amount of a substance 
+Definition/Usage: 6.02 x 10^23(Avogadro's number)amount of a substance 
 Equation: grams of substance/molecular mass=mole
 
 ### Examples
 
 ## Calculating Formula Weight/ Molecular Mass
-Definition/Usage:
+Definition/Usage:The Atomic Mass tells us how many grams of that atom is equal to one mole.
 Equation:
 
 ### Examples
@@ -16,11 +16,11 @@ Equation:
 ## Calculating Molarity
 Definition/Usage: 
 Equation: number of moles of substance/volume (liters) solute=molarity
-
+one molar solution is defined as one mole of solute in one liter of water.
 ### Examples
 
 ## Calculating Dilutions
-Definition/Usage: 
+Definition/Usage: Used to dilute the original(stock solution)concentration into a working concentration.
 Equation: original concentration X original volume=final concentration x final volume (c1v1=c2v2)
 
 ### Examples
